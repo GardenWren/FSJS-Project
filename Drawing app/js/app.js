@@ -1,5 +1,5 @@
 //problem: no user interactivity
-//solution: when user interacts page reacts appropriatly
+//solution: when user interacts page reacts appropriately
 
 var color = $(".selected").css("background-color");
 var $canvas = $("canvas")
